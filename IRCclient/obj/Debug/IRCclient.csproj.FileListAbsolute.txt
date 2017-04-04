@@ -1,0 +1,6 @@
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\bin\Debug\IRCclient.exe.config
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\bin\Debug\IRCclient.exe
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\bin\Debug\IRCclient.pdb
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\obj\Debug\IRCclient.csprojResolveAssemblyReference.cache
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\obj\Debug\IRCclient.exe
+C:\Users\Simonas\VU_Programu_Sistemos\4.Ketvirtas semestras\Kompiuterių_tinklai\IRCclient\IRCclient\obj\Debug\IRCclient.pdb
